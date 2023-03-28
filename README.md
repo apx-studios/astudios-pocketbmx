@@ -1,7 +1,3 @@
----------------------------------
----------- Aqade_#1337 ----------
----------------------------------
-
 ### ASTUDIOS | Development - Activity Script ###
 
 Have you ever thought about having your bmx around, just for a quick transport.This is a new free script for your city.
