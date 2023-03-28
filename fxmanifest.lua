@@ -1,0 +1,25 @@
+--------------------------------------
+--<!>-- ASTUDIOS | DEVELOPMENT --<!>--
+--------------------------------------
+
+fx_version 'adamant'
+
+game 'gta5'
+
+author 'Aqade_#1337'
+
+description 'ASTUDIOS | Development - Activity: Pocket BMX'
+
+version '1.0.0'
+
+lua54 'yes'
+
+shared_scripts {
+  'shared/*.lua',
+}
+client_scripts {
+  'client/*.lua',
+}
+server_scripts {
+  'server/*.lua'
+}
